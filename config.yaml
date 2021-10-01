@@ -1,0 +1,23 @@
+# Variables
+
+# Elasticsearch
+elasticsearch_host: localhost
+systemd_src: elastic-timeout.conf
+
+# Kibana
+kibana_host: localhost
+
+# Logstash
+logstash_conf: logstash.conf
+
+# Nagios
+nagios_user: adminubuntu
+nagios_password: passubuntu
+
+# LAMP
+domain: edelasoledad-tip
+owner: edelasoledad-tip
+group: edelasoledad-tip
+index_html: index.html
+ubuntu_src: edelasoledad-tip-ubuntu.conf
+centos_src: edelasoledad-tip-centos.conf
